@@ -105,7 +105,7 @@ Se pide:
 - Refactorizar el código del método de instancia *generate_hash* para que los datos estén contenidos en un *hash* donde **los números serán las claves y la traducción los valores**. El método *generate_hash* además debe retornar la traducción del número recibido como argumento.
 
 
-##Ejercicio 6: Arrays y strings
+## Ejercicio 6: Arrays y strings
 Dado el arreglo nombres = ["Violeta", "Andino", "Clemente", "Javiera", "Paula", "Pia", "Ray"]. Extraer todos los elementos que excedan mas de 5 caracteres.
 
 - Realizar el ejercicio utilizando el método .select
@@ -113,7 +113,7 @@ Dado el arreglo nombres = ["Violeta", "Andino", "Clemente", "Javiera", "Paula", 
 - Utilizando .select para crear un arreglo con todos los nombres que empiecen con P
 - Utilizando .map crear un arreglo único con la cantidad de letras que tiene cada nombre. 
 
-##Ejercicio 7: Arrays y objetos
+## Ejercicio 7: Arrays y objetos
 
 Dado el siguiente código:
 
@@ -135,7 +135,7 @@ nombres = %w(Alicia Javier Camila Francisco Pablo Josefina)
 4. Modificar la iteración para asignar notas incrementales de 1 en adelante.
 5. Utilizar un map para obtener todas las notas de los alumnos a partir del arreglo de estudiantes.
 
-##Ejercicio 8: Objeto y arrays desde cero
+## Ejercicio 8: Objeto y arrays desde cero
 
 1. Crear la clase punto, un punto tiene una posición `x` y una posición `y`.
 2. Crear métodos getter y setter para los atributos del punto.
